@@ -35,24 +35,24 @@ click Register App
 and place the file inside *android/app/* folder.
 
 - Enable the Google Authentication 
-<img src="./screenshot/4.png" />
+<img src="./screenshot/4.png"  width=600 />
 
 - Enabling the Google Login Functionality
 Now Select Google from Additional Providers
-<img src="./screenshot/6.png" />
+<img src="./screenshot/6.png" width=600  />
 
 Enable the Google Sign In and add your support Mail
-<img src="./screenshot/7.png" />
+<img src="./screenshot/7.png" width=600  />
 
 We have Successfully done the setup for Google Login In Firebase
-<img src="./screenshot/8.png" />
+<img src="./screenshot/8.png" width=600  />
 
 
 - Google Firestore Service from Firebase
-<img src="./screenshot/5.png" />
+<img src="./screenshot/5.png" width=600  />
 
 Select the Test Mode and click on Next
-<img src="./screenshot/9.png" />
+<img src="./screenshot/9.png" v/>
 
 Now inside Rules make the if condition to true and Publish the changes.
 <img src="./screenshot/9.png" width=600 />
