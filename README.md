@@ -55,7 +55,7 @@ Select the Test Mode and click on Next
 <img src="./screenshot/9.png" />
 
 Now inside Rules make the if condition to true and Publish the changes.
-<img src="./screenshot/9.png" />
+<img src="./screenshot/9.png" width=100 />
 
 **Firebase setup has completed successfully.**
 
