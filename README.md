@@ -34,8 +34,40 @@ click Register App
 ![image](https://user-images.githubusercontent.com/47639176/222668363-dc584ba1-eee6-46f1-9230-3eb981c246c9.png)
 and place the file inside *android/app/* folder.
 
-- Enable the Google Authentication and Google Firestore Service from Firebase.
+- Enable the Google Authentication 
 <img src="./screenshot/4.png" />
+
+- Enabling the Google Login Functionality
+Now Select Google from Additional Providers
+<img src="./screenshot/6.png" />
+
+Enable the Google Sign In and add your support Mail
+<img src="./screenshot/7.png" />
+
+We have Successfully done the setup for Google Login In Firebase
+<img src="./screenshot/8.png" />
+
+
+- Google Firestore Service from Firebase
 <img src="./screenshot/5.png" />
 
-You are good to get started with Flutter and Firebase Setup.
+Select the Test Mode and click on Next
+<img src="./screenshot/9.png" />
+
+Now inside Rules make the if condition to true and Publish the changes.
+<img src="./screenshot/9.png" />
+
+**Firebase setup has completed successfully.**
+
+Now to run the application
+
+Open the terminal and enter
+```cmd
+    git clone https://github.com/AgnelSelvan/Tic-Tac-Toe.git
+```
+
+and open the project in respective IDE and in Terminal enter
+```cmd
+    flutter pub get
+```
+ and now run the application.
