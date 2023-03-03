@@ -48,10 +48,7 @@ class SignUpScreen extends StatelessWidget {
       body: Center(
         child: ElevatedButton.icon(
           onPressed: () async {
-            final googleSignIn = GoogleSignIn(
-              scopes: ['email', 'profile'],
-              hostedDomain: '',
-            );
+            final googleSignIn = GoogleSignIn();
             final googleSignInAccount = await googleSignIn.signIn();
             if (googleSignInAccount != null) {
               final googleAuthentication =
