@@ -2,12 +2,14 @@
 
 TIC TAC TOE Multiplayer Game using Flutter and Firebase.
 
+<img src="./screenshot/output.gif" />
+
 ## Getting Started
 
 ### Flutter Setup
 This project is a starting point for a Flutter application.
 
-- [Download Flutter in their official webaite](https://docs.flutter.dev/get-started/install)
+- [Download Flutter from their official website](https://docs.flutter.dev/get-started/install)
 
 ### Firebase Setup
 
@@ -32,6 +34,8 @@ click Register App
 ![image](https://user-images.githubusercontent.com/47639176/222668363-dc584ba1-eee6-46f1-9230-3eb981c246c9.png)
 and place the file inside *android/app/* folder.
 
-- Enable the Google Authentication and Google Firebase Service from Firebase.
+- Enable the Google Authentication and Google Firestore Service from Firebase.
 <img src="./screenshot/4.png" />
 <img src="./screenshot/5.png" />
+
+You are good to get started with Flutter and Firebase Setup.
